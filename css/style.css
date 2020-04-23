@@ -17,7 +17,7 @@ body{
 .header{
     height: 100vh;
     background-image: linear-gradient(119.81deg, rgba(76, 187, 185, 0.54) 0.3%, rgba(7, 121, 228, 0.83) 100%),   
-    url('imgs/vincentiu-solomon-Z4wF0h47fy8-unsplash\ \(1\).jpg');
+    url('../imgs/vincentiu-solomon-Z4wF0h47fy8-unsplash\ \(1\).jpg');
     background-size: cover;
     background-position: center;
     position: relative;
